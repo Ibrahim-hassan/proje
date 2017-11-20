@@ -1,0 +1,142 @@
+h1{position: relative;
+bottom: 11px;
+left: 50px;
+font-size: 27px;
+font-weight: bold;
+}
+img{position: relative;
+ bottom: 40px;}  
+#num{width: 180px;
+     height: 35px;
+     position: relative;
+         left: 1011px;
+    bottom: 47px;    
+    background: #FACC2E;
+    border-radius: 15px;
+
+}
+p{position: relative;
+left: 31px;
+top: 7px;
+}
+span{position: relative;
+left: 800px;}
+#right{position: relative;
+    left: 1223px;
+    bottom: 75px;}
+ img{height: 500px;
+ width: 1250px
+ 
+ }
+ h2{margin-left: 256px;
+    position: relative;
+    bottom: 778px;
+    font-family: 'Play', sans-serif;
+    font-size:40px;
+    color:white;
+    word-spacing:8px; }
+
+ h3{margin-left: 480px;
+    position: relative;
+    bottom: 790px;
+    font-family: 'Crete Round', serif;
+    font-weight: bold;
+ }
+ button{height: 48px;
+        width: 220px;
+        background: rgba(192,192,192,0.5);
+        position: relative;
+        bottom: 740px;
+        margin-left:499px;
+        border-radius: 12px;
+        border-color: black;
+        font-size: 19px
+ }
+ #date{position: relative;
+ top: 270px;}
+ #dow{border: solid;
+border-width: 23px;
+border-radius: 50%;
+ color: #FFBF00;
+ border-color: rgba(192,192,192,0.2);
+ position: relative;
+ bottom: 150px;
+ left: 162px;
+ }
+ #edi{border: solid;
+border-width: 23px;
+border-radius: 50%;
+ color: #FFBF00;
+ border-color: rgba(192,192,192,0.2);
+ position: relative;
+     bottom: 150px;
+    left: 274px;
+}
+#pay{border: solid;
+border-width: 23px;
+border-radius: 50%;
+ color: #FFBF00;
+ border-color: rgba(192,192,192,0.2);
+position: relative;
+bottom: 150px;
+left: 387px;
+}
+#shop{border: solid;
+border-width: 23px;
+border-radius: 50%;
+ color: #FFBF00;
+ border-color: rgba(192,192,192,0.2);
+ position: relative;
+ bottom: 150px;
+ left: 510px;}
+ #fonts{margin-left: 40px}
+ h4{width: 5px}
+ #d1{position: relative;
+     bottom: 147px;
+    left: 215px;}
+#d2{position: relative;
+    bottom: 195px;
+    left: 445px;}
+#d3{position: relative;
+    bottom: 263px;
+    left: 664px;}
+#d4{position: relative;
+    bottom: 330px;
+    left: 888px;
+}    
+#cat{width: 200px;
+     height: 230px;
+     border-radius: 100%;
+     position: relative;
+      bottom: 169px;
+    left: 488px;}
+#social{width: 200px;
+     height: 230px;
+     border-radius: 100%;
+     position: relative;
+      bottom: 169px;
+       right: 40px;
+  }
+#temp{width: 200px;
+     height: 230px;
+     border-radius: 100%;
+     position: relative;
+      bottom: 169px;
+      left: 444px;
+  }
+#mg1{font-size: 25px;
+font-weight: bold;
+position: relative;
+    bottom: 157px;
+    margin-left: 181px;
+}
+#mg2{font-size: 25px;
+font-weight: bold;
+position: relative;
+bottom: 194px;
+margin-left: 506px}
+#mg3{font-size: 25px;
+font-weight: bold;
+position: relative;
+       bottom: 231px;
+margin-left: 880px}    

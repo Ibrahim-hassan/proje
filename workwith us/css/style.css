@@ -1,0 +1,151 @@
+
+#bar{width: ;
+     height: 550px;
+     background: url(wood.jpg) ;
+     position: relative;
+     bottom: 40px;
+
+
+}
+h1{position: relative;
+left: 350px;
+position: relative;
+top: 200px;
+font-size: 60px;
+font-weight: bold;
+font-family: 'Josefin Sans', sans-serif;
+color: #2E2E2E;
+}
+ul li{display: inline;
+      position: relative;bottom: 850px;
+      padding: 10px;
+      position: relative;
+      font-size: 25px
+
+}
+ul li a{text-decoration: none;
+        color: white
+          
+
+}
+#h{font-weight: bold;
+   font-size: 30px
+}
+button{position: relative;
+       left: 600px;
+       position: relative;
+       top: 230px;
+       height: 50px;
+       width: 250px;
+       border-radius: 20px 40px;
+       border-width: 0px;
+       background: #3ADF00; 
+       position: relative;
+       right: 10px;
+       
+     }
+     #b{position: relative;
+     left: 550px;
+     
+     
+    }
+     #t{position: relative;
+     bottom: 30px;}
+     
+     h3{position: relative;
+     left: 600px;
+     position: relative;
+     bottom: 70px;
+     letter-spacing: 3px;
+     word-spacing:7px; 
+     font-family: 'Titillium Web', sans-serif;
+     font-size: 25px
+ }  
+hr{position: relative;
+bottom: 93px;
+width: 60px;
+position: relative;
+left: 45px;
+font-weight: bold;
+color: #000000;
+
+
+ }
+p{position: relative;
+left: 500px;
+position: relative;
+bottom: 90px;
+color: #585858;
+font-size: 18px;
+position: relative;
+right: 20px;
+}
+#r{position: relative;
+right: 50px;
+position: relative;
+bottom: 20px;
+}
+ ul li{position: relative;
+ bottom: 600px;}
+ h1{position: relative;  
+ 	top:240px;
+    color: #FAFAFA
+ }
+
+ i{position: relative;
+ left: 150px;
+ border:solid;
+ border-width: 35px;
+ border-color: #E6E6E6;
+ border-radius: 30px 30px;
+ color: #01DF01 ;
+ background: transparent;
+
+}
+h4{position: relative;
+left:170px;
+color: #6E6E6E;
+font-size: 20px;
+}
+
+h5{text-indent: 10px;
+   width: 280px;
+   position: relative;
+   left: 120px;
+   
+}  
+#sa{position: relative;
+left: 540px;
+position: relative;
+bottom: 310px;
+}
+#q{position: relative;
+left: 800px;
+position: relative;
+bottom: 300px;
+}
+#aa{position: relative;
+left: 500px;
+position: relative;
+bottom: 270px;
+}
+#bb{position: relative;
+left: 900px;
+position: relative;
+bottom: 350px;
+}
+#lo{position: relative;
+left: 570px;
+position: relative;
+bottom: 480px;
+}
+#oo{position: relative;
+left: 980px;
+position: relative;
+bottom: 525px;
+
+}
+#big{position: relative;
+bottom: 70px;}
+ul li a:hover{background-color:rgba(0, 255, 0, 0.3);}
+ul li a{transition: all s ease-in-out;}

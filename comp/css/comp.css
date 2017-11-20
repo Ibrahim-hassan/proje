@@ -1,0 +1,225 @@
+#img{width: 100%;
+     height: 625px;
+     background: url(../img/decore2.jpg);}
+ul li{display: inline;}
+ul li a{text-decoration: none;color: white;font-size: 30px;padding: 11px;}
+#nav{margin-left: 667px;}
+h1{  position: relative;
+    top: 39px;
+    color: #ffebeb; margin-left: 60px;}
+pre{color: white;
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 62px;
+    position: relative;
+    top: 57px;}
+p{  color: #e0dbdb;
+    width: 643px;
+    margin-left: 62px;
+    position: relative;
+    top: 47px;
+    font-size: 22px;}
+button{width: 176px;
+    height: 50px;
+    background: #1af197;
+    border-radius: 7px;
+    border-width: 1px;
+    position: relative;
+    top: 72px;
+    margin-left: 65px;}
+h2{ margin-left: 469px;
+    font-size: 37px;
+    position: relative;
+    top: -5px;}        
+#user{ margin-left: 240px;}
+#flag{ margin-left: 265px;}
+#pen{  margin-left: 248px;}               
+#pus{    width: 300px;
+    position: relative;
+    top: 20px;
+    margin-left: 161px;
+    color: #6f6f6f;}
+#flagp{width: 300px;
+    position: relative;
+    top: -108px;
+    margin-left: 510px;
+    color: #6f6f6f;}
+#penp{width: 300px;
+    position: relative;
+    top: -235px;
+    margin-left: 855px;
+    color: #6f6f6f;}
+img{width: 100%;
+    position: relative;
+    top: -70px; }
+#hh2{    position: relative;
+    top: -834px;
+    margin-left: 633px;} 
+#p2{    position: relative;
+    top: -825px;
+    margin-left: 632px;
+    color: #4e4e4e;}        
+#p3{position: relative;
+    top: -772px;
+    margin-left: 624px;
+    color: #4e4e4e;}      
+#put{    margin-left: -344px;
+    background: rgba(192,192,192,0.4);
+    border-width: 2px;
+    border-color: black;}
+    section{width: 405px;
+            height: 190px;
+             border: solid;
+             position: relative;
+             top: -333px;
+             margin-left: 88px;
+              border-width: 3px;}    
+#sec2{width: 400px;
+      height: 140px;
+      border: solid;
+      margin-left: 564px;
+      position: relative;
+      top: -527px;}  
+#sec3{width: 400px;
+      height: 140px;
+      border: solid;
+      margin-left: 97px;
+      position: relative;
+      top: -388px;}
+#person{    width: 57px;
+    position: relative;
+    top: -618px;
+    margin-left: 429px;}          
+#hper{    position: relative;
+    top: -684px;
+    margin-left: 373px;}                     
+#ppers{    position: relative;
+    top: -707px;
+    margin-left: 195px;
+    color: #777979;}
+#pers2{    width: 61px;
+    position: relative;
+    top: -549px;
+    margin-left: 432px;}
+#jo{    position: relative;
+    top: -612px;
+    margin-left: 367px;} 
+#jo2{position: relative;
+    top: -629px;
+    margin-left: 195px;
+    color: #777979;}               
+#woman{    width: 74px;
+    position: relative;
+    top: -1097px;
+    margin-left: 872px;}    
+#our{    position: relative;
+    top: -1256px;}   
+#jo3{    position: relative;
+    top: -1168px;
+    margin-left: 827px;}
+#jo4{ position: relative;
+      top: -1187px;
+       margin-left: 635px;
+       color: #777979;}
+#black{    position: relative;
+    top: -864px;}
+#black2{position: relative;
+    top: -1607px;
+    color: white;
+    margin-left: 124px;}
+#black3{    position: relative;
+    top: -1557px;
+    margin-left: 123px;
+    color: white;font-weight: bold;}
+#black4{    position: relative;
+    top: -1493px;
+    margin-left: 120px;
+    font-weight: bold;
+    }   
+#blackpt{position: relative;
+    top: -1412px;
+    margin-left: 121px;
+   background: rgba(192,192,192,0.1);
+   color: white;
+font-weight: bold;
+border-width: 2px;}    
+#last{width: 100%;
+      height: 250px;
+    background: #5ab55a;
+    position: relative;
+    top: -786px}
+#last2{    margin-left: 114px;
+    position: relative;
+    top: 63px;
+    color: white;}                  
+#last3{    margin-left: 112px;
+    color: white;}
+#lastpt{    margin-left: 969px;
+    position: relative;
+    top: -53px;
+   width: 190px;
+   background: rgba(192,192,192,0.1);
+border-width: 3px;
+border-color: white; color: white; font-weight: bold;}       
+#lab3{width: 348px;
+    position: relative;
+    top: -1480px;
+    margin-left: 54px;}  
+#sea{    width: 348px;
+    position: relative;
+    top: -1480px;
+    margin-left: 91px;}     
+#office{    width: 348px;
+    position: relative;
+    top: -1715px;
+    margin-left: 911px;} 
+#track{position: relative;
+right: 16px;}   
+#blog{    position: relative;
+    top: -2069px;
+    margin-left: 511px;
+    font-size: 51px;}
+#blog2{    color: black;
+    position: relative;
+    top: -1845px;
+    margin-left: 52px;
+    font-size: 20px;}
+#blog3{ margin-left: 503px;
+        position: relative;
+        top: -1935px;
+         font-size: 20px;
+         color: black;}   
+#blog4{margin-left: 912px;
+        position: relative;
+        top: -2026px;
+         font-size: 20px;
+         color: black;}   
+#compa{width: 100%;
+       height: 300px;
+       background: black;
+       position: relative;
+    top: -1677px;}
+#compa1{    position: relative;
+    top: 111px;}
+#compa2{    color: white;
+    font-size: 30px;
+    margin-left: 357px;}
+#compa3{    width: 300px;
+    margin-left: 354px;
+    position: relative;
+    top: -2px;}  
+#compa4{    margin-left: 351px;
+    position: relative;
+    top: 17px;} 
+#compa5{    color: white;
+    margin-left: 761px;
+    position: relative;
+    top: -221px;}
+#compa6{    position: relative;
+    top: -232px;
+    margin-left: 759px;
+    width: 302px;}
+#compa7{     margin-left: 769px;
+    position: relative;
+    top: -214px;
+    color: #e8dada;}                                                

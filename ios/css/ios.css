@@ -1,0 +1,193 @@
+#bak{width: 100%;   
+    height: 650px;  
+    background: url(stree.png);
+    position: relative;      
+    bottom: 20px; } 
+ul li {display: inline;        
+float:right;        
+padding: 20px;        
+font-size: 19px;        
+position:relative;        
+bottom: 45px;       } 
+#hom{color: white;} 
+ul li a{text-decoration: none;         
+color: #D8D8D8;  } 
+h1{position: relative; 
+	top: 20px;
+    color: white; 
+    margin-left: 25px;   
+    font-family: 'Lobster', cursive; 
+    font-size: 40px;
+}  
+   h2{margin-left: 400px;    
+   position: relative;    
+   top: 200px;    
+   font-size: 45px;
+   font-weight: bold;
+   color: white; }
+h3{margin-left: 510px;
+   position: relative;
+   top: 200px;
+   color: #A4A4A4;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 27px;
+}
+button{height: 55px;
+       width: 170px;
+       background: #01DFA5;
+       border-width: 0px;
+       border-radius: 6px;
+       margin-left: 500px;
+       position: relative;
+       top: 222px;
+       
+}
+#hh2{color: black;
+     margin-left: 520px;
+     position: relative;
+         top: -10px;}
+#hh3{position: relative;
+     top: -41px;
+     margin-left: 549px;
+     font-size: 22px;}         
+p{width: 600px;
+  color: #585858;
+  margin-left: 340px;
+  position: relative;
+  top: -39px;
+  font-size: 19px;}
+#ios{width: 100%;
+     height: 520px;
+     background: #E6E6E6; }
+#hhh2{position: relative;
+      top: 24px;
+      margin-left: 480px;
+      font-size: 67px;
+      color: black;}
+#apps{}
+#apple{color: #01DFA5;
+       margin-left: 200px;}
+#app{position: relative;
+      top: -9px;
+      margin-left: 178px;
+      font-weight: bold;
+      color: black;}
+#p1{    margin-left: 78px;
+    position: relative;
+    top: 2px;
+    width: 400px;}       
+#windo{color: #01DFA5;
+        margin-left: 568px;
+        position: relative;
+        top: -251px;}
+#win{ margin-left: 531px;
+      position: relative;
+      top: -259px;  
+      color: black;}
+#p2{margin-left: 493px;
+    position: relative;
+    top: -256px;
+    width: 400px;}
+#andro{color:#01DFA5;
+           margin-left: 1006px;
+    position: relative;
+    top: -500px;}
+#android{margin-left: 964px;
+      position: relative;
+      top: -510px;  
+      color: black;}
+#p3{margin-left: 929px;
+    position: relative;
+    top: -511px;
+    width: 350px;}
+#apps{position: relative;
+right: 20px;}                          
+img{width: 100%;
+    height: 400px;}
+#h2mg{ position: relative;
+       top: -261px;
+       margin-left: 332px;}    
+#put2{position: relative;
+      top: -267px;
+      margin-left: 540px;
+      background: rgba(192,192,192,0.3);
+      border-width: 2px;
+      border-color: white;
+      color: white;}
+#port{color: black;
+      margin-left: 552px;
+      position: relative;
+      top: -189px;}
+#port2{margin-left: 587px;
+    position: relative;
+    top: -214px;}            
+#phone1{width: 895px;
+        position: relative;
+        top: -198px;
+        height: 350px;}
+#phone2{width: 354px;
+    position: relative;
+    top: -551px;
+    height: 350px;
+    margin-left: 910px;}
+#phone3{ position: relative;
+         top: -539px;
+         width: 450px;
+         height: 340px;}           
+#lab1{ position: relative;
+       top: -539px;
+       width: 433px;
+       margin-left: 9px;
+       height: 340px;}
+#lab2{ position: relative;
+       top: -883px;
+       width: 353px;
+       height: 340px;
+       margin-left: 912px;}   
+#peek{position: relative;
+top: -1498px}
+img{transition: all .3s ease-in-out;}
+.mgs:hover{transform: scale(1.1,1.1);} 
+#magaz{    margin-top: -910px;
+    margin-bottom: 636px;}
+#magazh{    margin-top: -1115px;
+    margin-left: 494px;}
+#put3{
+      margin-left: 540px;
+      background: rgba(192,192,192,0.3);
+      border-width: 2px;
+      border-color: white;
+      color: white;}}
+.contac{color: red}
+#input1{    position: relative;
+    top: 499px;
+    margin-left: 63px;
+        width: 339px;
+    height: 40px;
+    border-radius: 6px;}
+#input2{position: relative;
+    top: 500px;
+    margin-left: 10px;
+        width: 339px;
+    height: 40px;
+    border-radius: 6px;}          
+textarea{margin-left: 61px;
+    position: relative;
+    top: 527px;
+border-radius: 8px;}
+#last{width: 100%;
+      height: 1000px;
+      background: #E6E6E6;}
+#tact{color: black;
+      position: relative;
+      top: 483px;
+      margin-left: 553px;}
+#touch{position: relative;
+       top: 449px;
+       margin-left: 582px;}
+#aria{position: relative;
+top: -164px;}
+#send{width: 200px;
+      position: relative;
+      top: 388px;
+      margin-left: 560px;}
